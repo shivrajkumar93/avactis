@@ -10,6 +10,7 @@ public class MyFirstSeleniumTest {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 //Steps 
+//mika
 		// open browser
 		//WebDriverManager.chromedriver().setup();
 		WebDriver driver= new ChromeDriver();
